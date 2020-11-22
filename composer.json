@@ -1,5 +1,5 @@
 {
-    "name": "skyoptical/m2export-cms-data",
+    "name": "dejanKar/m2export-cms-data",
     "description": "Export CMS Blocks and Pages",
     "type": "magento2-module",
     "version": "1.0.0",
